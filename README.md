@@ -3,7 +3,7 @@
 A mobile application which simulates a xylophone right on your iPhone/iPad.
 
 App showscase:
-![Xylophone app showcase photo](https://github.com/constzz/Xylophone-ios-app/xylophone-app-screenshot.png)
+![Xylophone app showcase photo](https://github.com/constzz/Xylophone-ios-app/blob/main/xylophone-app-screenshot.png)
 
 iOS development tecnhologies used: Storyboard autloayouting, custom sound asset.
 
